@@ -27,5 +27,5 @@ Scores are updated, and the result is displaye
 Feel free to explore and enjoy playing the Rock Paper Scissors game!
 ## Screenshots
 
-![App Screenshot](Screenshot (10).png)
+![App Screenshot](Screenshot%20(10).png)
 
