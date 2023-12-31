@@ -3,7 +3,6 @@
 
 Welcome to the Rock Paper Scissors game! This is a simple web-based game where you can play against the computer.
 
-
 ## How to 
 1. Open the 'ndex.html' file in your web browser.
 2. Click on one of the game choices: Rock, Paper, or Scissors.
