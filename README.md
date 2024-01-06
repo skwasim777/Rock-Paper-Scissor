@@ -1,6 +1,5 @@
 
 # Rock Paper Scissors Game
-
 Welcome to the Rock Paper Scissors game! This is a simple web-based game where you can play against the computer.
 
 ## How to 
