@@ -24,7 +24,7 @@ Welcome to the Rock Paper Scissors game! This is a simple web-based game where y
 - HTML5
 - CSS3
 - JavaScript
-
+  
 Feel free to explore and enjoy playing the Rock Paper Scissors game!
 
 ## Screenshots
