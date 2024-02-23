@@ -8,7 +8,6 @@ Welcome to the Rock Paper Scissors game! This is a simple web-based game where y
 3. The computer will randomly select its move.
 4. The game will determine the winner based on the choices made.
 5. The score will be updated, and the result will be displayed.
-   
 ## Files
 - **index.html**: The main HTML file for the game.
 - **style.css**: The CSS file for styling the game interface.
